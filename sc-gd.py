@@ -8,6 +8,7 @@ from unicodedata import name
 from bs4 import BeautifulSoup
 from bs4.dammit import EncodingDetector
 import requests
+import creds
 x=0
 c=[0]
 b=[None] * 30000
